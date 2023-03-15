@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**janametz2020/janametz2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Jana Metz @jannametz and I'm a student of IT-Systems Engineering by Hasso Plattner Institut. I'm also a GitHub fun. 
 
 - 🔭 I’m currently working on Project Banking App 
