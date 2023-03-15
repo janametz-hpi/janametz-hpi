@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jana</h1>
-<h3 align="center">I'm a student of IT-Systems Engineering by Hasso Plattner Institut from Potsdam</h3>
+<h3 align="center">I'm a student of IT-Systems Engineering by Hasso Plattner Institut</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janametz2020&label=Profile%20views&color=0e75b6&style=flat" alt="janametz2020" /> </p>
 
