@@ -5,8 +5,7 @@ My name is Jana Metz @jannametz2023 I'm also a GitHub fun.
 - 🔭 I’m currently working on Project Banking App 
 - 👀 I’m interested in robotik and Software Development
 - 🌱 I’m currently learning the things which i need to explore more, Java, C++, Robotik (NAO, Lego MINDSTORMS EV3, LEGO Education SPIKE) ...
-- 📫 How to reach me : janametz@hotmail.com
-                     , jana.metz@student.hpi.uni-potsdam.de
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janametz2020&label=Profile%20views&color=0e75b6&style=flat" alt="janametz2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janametz2020" alt="janametz2020" /></a> </p>
